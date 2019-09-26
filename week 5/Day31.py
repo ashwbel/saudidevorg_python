@@ -18,10 +18,10 @@ myfunc2('WABEL')
 
 
 #Exercise 3
-def myfunc3(AGE =20):
-    print('My Age is '+ name)
+def myfunc3(City ='Riyadh'):
+    print('My City is '+ City)
 
 
-myfunc3(10)
+myfunc3('Jeddah')
 myfunc3()
-myfunc3(33)
+myfunc3('Dammam')

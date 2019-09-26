@@ -3,18 +3,18 @@
 #day 30
 
 #Exercise 1
-for x in rang(10):
+for x in range(10):
     print(x)
 
 
 #Exercise 2
-for x in rang(4 ,20,2):
+for x in range(4 ,20,2):
     print(x)
 
 
 #Exercise 3
 
-for x in rang(10):
+for x in range(10):
     print(x)
 else:
     print('finish')
